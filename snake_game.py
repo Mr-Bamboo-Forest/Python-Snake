@@ -1,7 +1,8 @@
-import pygame
-import time
 import random
- 
+import time
+
+import pygame
+
 pygame.init()
  
 white = (255, 255, 255)
